@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1539382384 source:c:\users\bruno\desktop\cpp\roteiro 2\mmoproject\src\enemy.cpp
+	"Enemy.h"
+
+1539382760 c:\users\bruno\desktop\cpp\roteiro 2\mmoproject\include\enemy.h
+	<iostream>
+
+1539379556 source:c:\users\bruno\desktop\cpp\roteiro 2\mmoproject\main.cpp
+	<iostream>
+	"Enemy.h"
+	"Poring.h"
+	"Balrog.h"
+
+1539382294 c:\users\bruno\desktop\cpp\roteiro 2\mmoproject\include\poring.h
+	<iostream>
+	<Enemy.h>
+
+1539379551 c:\users\bruno\desktop\cpp\roteiro 2\mmoproject\include\balrog.h
+	<iostream>
+	<Enemy.h>
+
+1539380373 source:c:\users\bruno\desktop\cpp\roteiro 2\mmoproject\src\balrog.cpp
+	"Balrog.h"
+
+1539382317 source:c:\users\bruno\desktop\cpp\roteiro 2\mmoproject\src\poring.cpp
+	"Poring.h"
+
+1539382760 source:c:\users\bruno\desktop\cpp\roteiro 3\mmoproject\main.cpp
+	<iostream>
+	"Enemy.h"
+	"Poring.h"
+	"Balrog.h"
+
+1539382760 c:\users\bruno\desktop\cpp\roteiro 3\mmoproject\include\enemy.h
+	<iostream>
+
+1539382294 c:\users\bruno\desktop\cpp\roteiro 3\mmoproject\include\poring.h
+	<iostream>
+	<Enemy.h>
+
+1539379551 c:\users\bruno\desktop\cpp\roteiro 3\mmoproject\include\balrog.h
+	<iostream>
+	<Enemy.h>
+
+1539380373 source:c:\users\bruno\desktop\cpp\roteiro 3\mmoproject\src\balrog.cpp
+	"Balrog.h"
+
+1539382384 source:c:\users\bruno\desktop\cpp\roteiro 3\mmoproject\src\enemy.cpp
+	"Enemy.h"
+
+1539382760 source:c:\users\bruno\desktop\cpp\roteiro 3\mmoproject\src\poring.cpp
+	"Poring.h"
+
