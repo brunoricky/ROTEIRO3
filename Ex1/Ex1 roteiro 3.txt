@@ -1,0 +1,1 @@
+O polimorfismo descreve a capacidade de uma linguagem de processar objetos de vários tipos e classes através de uma única e uniforme interface, possibilitando que objetos diferentes, porém de mesmo tipo, possam executar ações semelhantes, através de uma mesma função.
