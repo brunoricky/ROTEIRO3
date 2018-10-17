@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1539803819 source:c:\users\bruno\desktop\cpp\roteiro 3\ex2\main.cpp
+	<iostream>
+	<FiguraGeometrica.h>
+	<Circulo.h>
+	<Retangulo.h>
+	<Triangulo.h>
+
+1539802941 source:c:\users\bruno\desktop\cpp\roteiro 3\ex2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539803061 c:\users\bruno\desktop\cpp\roteiro 3\ex2\include\figurageometrica.h
+	<iostream>
+	<string>
+
+1539802941 source:c:\users\bruno\desktop\cpp\roteiro 3\ex2\src\circulo.cpp
+	"Circulo.h"
+
+1539803190 c:\users\bruno\desktop\cpp\roteiro 3\ex2\include\circulo.h
+	"FiguraGeometrica.h"
+
+1539803793 source:c:\users\bruno\desktop\cpp\roteiro 3\ex2\src\retangulo.cpp
+	"Retangulo.h"
+
+1539803307 c:\users\bruno\desktop\cpp\roteiro 3\ex2\include\retangulo.h
+	<FiguraGeometrica.h>
+
+1539803794 source:c:\users\bruno\desktop\cpp\roteiro 3\ex2\src\triangulo.cpp
+	"Triangulo.h"
+
+1539803458 c:\users\bruno\desktop\cpp\roteiro 3\ex2\include\triangulo.h
+	<FiguraGeometrica.h>
+
