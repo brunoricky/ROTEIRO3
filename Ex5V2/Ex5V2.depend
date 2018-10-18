@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1539828751 source:c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\funcionario.cpp
+	"Funcionario.h"
+
+1539828751 c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\funcionario.h
+	<iostream>
+	<string>
+
+1539827734 source:c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\assalariado.cpp
+	"Assalariado.h"
+
+1539828554 c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\assalariado.h
+	"Funcionario.h"
+
+1539827734 source:c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\horista.cpp
+	"Horista.h"
+
+1539828219 c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\horista.h
+	"Funcionario.h"
+
+1539827734 source:c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\comissionado.cpp
+	"Comissionado.h"
+
+1539828225 c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\comissionado.h
+	"Funcionario.h"
+
+1539829562 source:c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Horista.h"
+	"Assalariado.h"
+	"SistemaGerenciaFolha.h"
+	"Comissionado.h"
+
+1539827642 c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\sistemagerenciafolha.h
+	"Funcionario.h"
+	"Assalariado.h"
+	"Comissionado.h"
+	"Horista.h"
+	<string>
+	<iostream>
+
+1539829296 source:c:\users\bruno\desktop\cpp\roteiro 3\ex5v2\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+
