@@ -24,7 +24,7 @@ int main()
     cout << endl << endl;
 
     cout << "Conta corrente" << endl;
-    cout << "Nome: " << conta1.getNomeCliente() << endl;
+    cout << "Nome: " << contacorrente1.getNomeCliente() << endl;
     cout << "Numero: "<< contacorrente1.getConta() << endl;
     cout << "Saldo: "<< contacorrente1.getSaldo() << endl;
     cout << "Salario: "<< contacorrente1.getSalario() << endl;
