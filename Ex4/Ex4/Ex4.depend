@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1539815651 source:c:\users\bruno\desktop\cpp\roteiro 3\ex4\main.cpp
+	<iostream>
+	<string>
+	"Conta.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+	"Poupanca.h"
+
+1539814523 source:c:\users\bruno\desktop\cpp\roteiro 3\ex4\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1539814523 c:\users\bruno\desktop\cpp\roteiro 3\ex4\include\contacorrente.h
+	<Conta.h>
+
+1539814578 c:\users\bruno\desktop\cpp\roteiro 3\ex4\include\conta.h
+	<string>
+	<iostream>
+	<stdio.h>
+
+1539815572 source:c:\users\bruno\desktop\cpp\roteiro 3\ex4\src\conta.cpp
+	"Conta.h"
+
+1539814632 source:c:\users\bruno\desktop\cpp\roteiro 3\ex4\src\poupanca.cpp
+	"Poupanca.h"
+
+1539814523 c:\users\bruno\desktop\cpp\roteiro 3\ex4\include\poupanca.h
+	<Conta.h>
+
+1539815446 source:c:\users\bruno\desktop\cpp\roteiro 3\ex4\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539815446 c:\users\bruno\desktop\cpp\roteiro 3\ex4\include\contaespecial.h
+	<ContaCorrente.h>
+
